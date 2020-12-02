@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Regression Test">
+<classes>
+      <class name="testNGDataProvider.BikeLoan"/> 
+      <class name="testNGDataProvider.FlatLoan"/>
+       <class name="testNGDataProvider.TourLoan"/>     
+    </classes>
+  </test>
+</suite> 

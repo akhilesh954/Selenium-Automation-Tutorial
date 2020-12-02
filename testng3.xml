@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Regression Test">
+  
+    <classes>
+      <class name="testNGAnotationsGroups.PersonalLoan"/> 
+      <class name="testNGAnotationsGroups.CarLoan"/>  
+      <class name="testNGAnotationsGroups.HomeLoan"/>  
+    </classes>
+  </test>
+</suite> 

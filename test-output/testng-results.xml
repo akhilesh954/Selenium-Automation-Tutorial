@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="116" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+    <groups>
+    </groups>
+    <test name="Regression Test" duration-ms="116" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+      <class name="testNGDataProvider.BikeLoan">
+        <test-method status="PASS" signature="NewCarLoan()[pri:0, instance:testNGDataProvider.BikeLoan@1f554b06]" name="NewCarLoan" duration-ms="16" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewCarLoan -->
+        <test-method status="PASS" signature="OldCarLoan()[pri:0, instance:testNGDataProvider.BikeLoan@1f554b06]" name="OldCarLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OldCarLoan -->
+        <test-method status="PASS" signature="RentedCarLoan(java.lang.String, java.lang.String)[pri:0, instance:testNGDataProvider.BikeLoan@1f554b06]" name="RentedCarLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" data-provider="getData" finished-at="2020-11-25T21:55:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[userName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RentedCarLoan -->
+        <test-method status="PASS" signature="RentedCarLoan(java.lang.String, java.lang.String)[pri:0, instance:testNGDataProvider.BikeLoan@1f554b06]" name="RentedCarLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" data-provider="getData" finished-at="2020-11-25T21:55:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[userName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RentedCarLoan -->
+        <test-method status="PASS" signature="ReselCarLoan()[pri:0, instance:testNGDataProvider.BikeLoan@1f554b06]" name="ReselCarLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReselCarLoan -->
+        <test-method status="PASS" signature="RentedCarLoan(java.lang.String, java.lang.String)[pri:0, instance:testNGDataProvider.BikeLoan@1f554b06]" name="RentedCarLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" data-provider="getData" finished-at="2020-11-25T21:55:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[userName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RentedCarLoan -->
+      </class> <!-- testNGDataProvider.BikeLoan -->
+      <class name="testNGDataProvider.FlatLoan">
+        <test-method status="PASS" signature="AfterClass()[pri:0, instance:testNGDataProvider.FlatLoan@694e1548]" name="AfterClass" duration-ms="16" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method status="PASS" signature="NewPropertyLoan()[pri:0, instance:testNGDataProvider.FlatLoan@694e1548]" name="NewPropertyLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewPropertyLoan -->
+        <test-method status="PASS" signature="NewShopLoan()[pri:0, instance:testNGDataProvider.FlatLoan@694e1548]" name="NewShopLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewShopLoan -->
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:testNGDataProvider.FlatLoan@694e1548]" name="BeforeClass" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="OldShopLoan()[pri:0, instance:testNGDataProvider.FlatLoan@694e1548]" name="OldShopLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OldShopLoan -->
+        <test-method status="PASS" signature="OldPropertyLoan()[pri:0, instance:testNGDataProvider.FlatLoan@694e1548]" name="OldPropertyLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OldPropertyLoan -->
+      </class> <!-- testNGDataProvider.FlatLoan -->
+      <class name="testNGDataProvider.TourLoan">
+        <test-method status="PASS" signature="PayCCBill()[pri:0, instance:testNGDataProvider.TourLoan@1c3a4799]" name="PayCCBill" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PayCCBill -->
+        <test-method status="PASS" signature="PayLoan()[pri:0, instance:testNGDataProvider.TourLoan@1c3a4799]" name="PayLoan" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PayLoan -->
+        <test-method status="PASS" signature="prerequvisit()[pri:0, instance:testNGDataProvider.TourLoan@1c3a4799]" name="prerequvisit" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequvisit -->
+        <test-method status="PASS" signature="PayRent()[pri:0, instance:testNGDataProvider.TourLoan@1c3a4799]" name="PayRent" duration-ms="0" started-at="2020-11-25T21:55:34 IST" finished-at="2020-11-25T21:55:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PayRent -->
+      </class> <!-- testNGDataProvider.TourLoan -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Suite -->
+</testng-results>
